@@ -13,3 +13,5 @@ Test your code: Before you deploy your code to production, it's a good idea to t
 Deploy your code: Once you're confident that your code is working correctly, you can deploy it to production.
 
 Overall, the Google Index API is a powerful tool that can help you automate the process of submitting URLs to Google's search index. With the right setup and coding, you can streamline your website indexing and help your content reach a wider audience.
+
+I'm tested this API in project https://gamblorium.com/nz/casinos/1-dollar/
